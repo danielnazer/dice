@@ -1,4 +1,4 @@
-#Diceware
+#Diceware roller
 
 import random
 
